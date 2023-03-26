@@ -29,7 +29,7 @@ I leave B2broker in the end of 2022 cause of burned out. So I got a deep rest an
 - **Web-servers:** Nginx, Openresty, Traefik
 - **DBs and MQs:** MySQL, PGSQL (Timescale also), NATS
 - **Mission control:** Confluence, Jira, Slack
-- **Programming:** Python 
+- **Programming:** Python, YAML, JSON path, regexp  
 
 #### Common tasks:
 - Troubleshouting with cloud providers, linux and windows servers, communication between servers and people.
@@ -42,12 +42,14 @@ For 7 years it was so many projects that I was involved in... But I want just no
 
 ### DevOps TL
 
-> Because I was first system administrator in our small for that times company lets say that in the middle of 2018 I become a team lead of our department.
+> Because I was first system administrator in our small for that times company lets say that in the middle of 2018 I create a DevOps departmant that containts 5 devops engineers and 2 system administrators
 
 #### Tasks:
 
-- Communicate with another team leads (development, QA, tech support)
-- Communicate with a system architects 
+- Building a processes
+- Building a multilayer monitoring solution for a company (Zabbix, prometheus, sentry)
+- Communicate with another teams (development, QA, tech support)
+- Finding a right solutions within a system architects 
 - Taking care about 5 devops engineers and 2 admins. One CTO also, sometimes CEO...
 - Task decomposition, planing sprints with PM 
 - Explaining what PO (or any non tech guy) is exactly wants from us?
@@ -61,8 +63,9 @@ For 7 years it was so many projects that I was involved in... But I want just no
 > Written in python. Microservice architecture. Running on K8S.
 
 #### Tasks: 
-- Ci/CD pipeline development
+- Development of CI/CD pipelines from scratch (Ansible + Gitlab CI + GCP K8S)
 - Blockchain node setup and maintenance (BTC, ETH, LTC, ...)
+- Administrating a private docker hub (Harbor)
 
 #### Tools: 
 - GCP 
@@ -81,3 +84,16 @@ Legasy project with existing terraform/ansible deploy scripts.
 #### Tasks:
 - CI/CI pipeline development
 - Release management
+
+---
+
+### B2core
+#### Traders room / Forex CRM (b2core.com)
+
+> Laravel as a backend and angular as a frontend. Geo-DNS for high availability. Mysql as a database with master-master replication and nginx (openresty) with php-fpm. More than 100 client`s environments.
+
+#### Tasks:
+- Development of CI and CD pipelines from scratch (Ansible + Gitlab CI)
+- Development of Chat OPS solutions for access management
+- Administrating a composer private repository (Packagist)
+- Integrations with 3-part services (Monitoring, smtp providers, ELK)
