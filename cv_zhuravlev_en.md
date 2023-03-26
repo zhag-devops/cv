@@ -1,18 +1,18 @@
 # Aleksandr Zhuravlev
-#### Senior DevOps engineer, DevOps TL, Junior System Architect 
+#### Senior DevOps Engineer, DevOps Team Lead, Junior System Architect 
 Yerevan, Armenia
 
 I have spent the last 7 years in various roles at B2broker LTD.
 
 ### About company
 B2broker is a Global Prime of Prime Multi-Asset Liquidity & Technology White Label solutions provider for Brokerages and Exchanges. 
-B2broker has the 500 clients, 380 employees, 21 solutions, 15 languages, 11 offices and 7 licenses. 
+B2broker has 500 clients, 380 employees, 21 solutions, 15 languages, 11 offices and 7 licenses. 
 
 
 ### About me
 I am interested in software development and have knowledge about the differences between authorization and authentication, 12 factor apps, CORS issues, OAuth, WS, GRPC, and queues. However, I come from a system administrator background and don`t have experience in production development as a software developer. 
 
-I left B2broker at the end of 2022 due to burnout and have taken a break since then. I`m currently looking for a new job.
+I left B2broker at the end of 2022 due to burnout and have taken a break since that time. I`m currently looking for a new job.
 
 ---
 
@@ -21,7 +21,7 @@ I left B2broker at the end of 2022 due to burnout and have taken a break since t
 - **Cloud providers**: AWS, GCP, Hetzner Cloud, Beeks FX, OVH, DO, Alibaba Cloud, IPTP, linode
 - **Automation tools**: Ansible, Terraform
 - **Containers and virtualization:** Docker, KVM, Libvirt, ESXI, Proxmox
-- **Container orkestration:** K8S (GCP EKS, Linode), docker-compose
+- **Container orchestration:** K8S (GCP EKS, Linode), docker-compose
 - **Monitoring and metrics:** Zabbix, Prometheus, Grafana
 - **Logs:** ELK, EFK, AWS CloudWatch
 - **CI, CD, CD:** Gitlab, Ansible
@@ -46,7 +46,7 @@ During my 7 years of experience at B2broker LTD, I have been involved in numerou
 
 > As the first system administrator in our small company at the time, I was able to create a DevOps department around the middle of 2018. This department consisted of five DevOps engineers and two system administrators.
 
-During my time as the head of the DevOps department at B2broker LTD, I was tasked with a number of responsibilities
+During my time as the head of the DevOps department at B2broker LTD, I was tasked with various responsibilities
 
 #### Tasks and responsibilities:
 
@@ -78,7 +78,7 @@ During my time as the head of the DevOps department at B2broker LTD, I was taske
 #### Cryptocurency exchange
 
 > The exchange is built using C# (.NET) It has a microservice architecture and running on AWS.
-It was a legasy project with existing terraform/ansible deploy scripts.
+It was a legacy project with existing terraform/ansible deploy scripts.
 
 #### Tasks:
 - Improvieng CI/CD pipelines
