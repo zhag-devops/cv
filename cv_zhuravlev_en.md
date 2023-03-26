@@ -77,11 +77,8 @@ During my time as the head of the DevOps department at B2broker LTD, I was taske
 ### B2BX Exchage (www.b2bx.exchange)
 #### Cryptocurency exchange
 
-
-Role: DevOps engineer 
-
-> Written in C# (.NET) Microservice architecture. Running on AWS.
-Legasy project with existing terraform/ansible deploy scripts.
+> The exchange is built using C# (.NET) It has a microservice architecture and running on AWS.
+It was a legasy project with existing terraform/ansible deploy scripts.
 
 #### Tasks:
 - Improvieng CI/CD pipelines
