@@ -6,11 +6,11 @@ I have spent the last 7 years in various roles at B2broker LTD.
 
 ### About company
 B2broker is a Global Prime of Prime Multi-Asset Liquidity & Technology White Label solutions provider for Brokerages and Exchanges. 
-B2broker has 500 clients, 380 employees, 21 solutions, 15 languages, 11 offices and 7 licenses. 
+B2broker has 500 clients, 380 employees, 21 solutions, 15 languages, 11 offices and 7 licenses.
 
 
 ### About me
-I am interested in software development and have knowledge about the differences between authorization and authentication, 12 factor apps, CORS issues, OAuth, WS, GRPC, and queues. However, I come from a system administrator background and don`t have experience in production development as a software developer. 
+I am interested in software development and have knowledge about the differences between authorization and authentication, 12 factor apps, CORS issues, OAuth, WS, GRPC, and queues. I have a system administrator background and experience with bash and python scripting.
 
 I left B2broker at the end of 2022 due to burnout and have taken a break since that time. I`m currently looking for a new job.
 
