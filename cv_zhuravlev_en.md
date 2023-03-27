@@ -54,10 +54,11 @@ During my time as the head of the DevOps department at B2broker LTD, I was taske
 - Building a multilayer monitoring solution for a company (Zabbix, prometheus, sentry)
 - Communicate with another teams (development, QA, tech support)
 - Finding a right solutions within a system architects 
-- Taking care about 5 devops engineers and 2 admins. One CTO also, sometimes CEO...
+- Managing and mentoring a team of 5 devops engineers and 2 system administrators, as well as working closely with the CTO and CEO
 - Task decomposition and sprints planing with PM 
 - Explaining what PO (or any non tech guy) is exactly wants from us?
-- Trying to find an answer to the question of how to work 24/7/365
+- Keeping an eye on mission-critical components of our infrastructure to ensure optimal uptime
+- Planning infrastructure improvements and optimizations to gain better performance and reduce monthly bills
 
 ---
 
