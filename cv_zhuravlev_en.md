@@ -100,6 +100,9 @@ It was a legacy project with existing terraform/ansible deploy scripts.
 
 
 ---
+
+> In the last few months, I have taken a couple of courses to demystify some technologies for myself and gain a better understanding of how things work
+
 ### My goals:
 
 - I going to become a System Architect 
