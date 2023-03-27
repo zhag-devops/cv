@@ -96,3 +96,13 @@ It was a legacy project with existing terraform/ansible deploy scripts.
 - Development of Chat OPS solutions for access management
 - Administrating a composer private repository (Packagist)
 - Integrations with 3-part services (Monitoring, smtp providers, ELK)
+
+
+---
+### My goals:
+
+- I going to become a System Architect 
+- Continue gaining experience in DevOps and infrastructure technologies and practices
+- Build more projects using Kubernetes and explore more advanced features
+- Learn more about software design patterns and architectures
+- Get more expirience in software development as a software developer
