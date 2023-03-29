@@ -9,16 +9,21 @@
 - Phone: +995 596 11 44 94
 - Email: zhag.way@gmail.com
 
-## Objective / personal statement 
+
+## Objective
+
 DevOps Engineer position utilising 6 years experience in fintech software development company
 
-## executive summary
+
+## Executive summary
+
 - More than 10 years of experience in administering Windows and Linux servers
 - Six years of experience in a fintech software development company as a DevOps engineer
 - Five years of experience of leading team of DevOps engineers
 - Clear understanding of software development lifecycle in Agile environments
 - Experience in working closely with QA, system architects, technical support, and product owners
 - Able to use common DevOps tools and practices
+
 
 ## Work experience
 ### DevOps Engineer of cryptocurrency exchange
@@ -74,9 +79,6 @@ DevOps Engineer position utilising 6 years experience in fintech software develo
 - **Type of business or sector:** Software development
 
 
-
-
-
 ## Education and training
 
 - **Dates:** September 2012 - June 2016
@@ -84,25 +86,31 @@ DevOps Engineer position utilising 6 years experience in fintech software develo
 - **Principal subjects:** Computer Science, Mathematics
 - **Organization providing education and training:** University of Anytown, EU
 
+
 ## Certifications
 
-- AWS Certified DevOps Engineer - Professional
-- Certified Kubernetes Administrator (CKA)
-- Certified Jenkins Engineer (CJE)
+- Kodekloud CKA preparation 10/03/2023
+- Kodekloud CKAD preparation 16/03/2023
+- Udemy Fundamentals of Backend Engineering 25/02/2023
+- Kodekloud 12 factor app cource 15/03/2023
+
 
 ## Skills
 
-- 
+- Experience with varios cloud providers such as AWS, GCP, Hetzner Cloud and Beeks FX
+- Experience with common devops tools such as Ansible, Terraform, Gitlab, K8S
+- Familiarity with monitoring, log management and alerting tools such as Prometheus, Zabbix, Sentry  
+- Strong troubleshouting skills
+- Expirience in configuration web servers such as Oppenresty and Traefik 
+- Experience in configuration databases and message ques such as Mysql, Timescale and NATS
+- Have python scripting skills 
 
-- Proficient in tools such as Ansible, Terraform, Docker, Kubernetes, AWS, and Azure
-- Experience working in Agile environments and with Agile methodologies such as Scrum and Kanban
-- Strong communication and collaboration skills, with experience leading teams and managing projects
-- Familiarity with various programming languages such as Python, Java, and Bash
-- Experience with monitoring and alerting tools such as Nagios, Prometheus, and ELK Stack
 
 ## Languages
+
 - Russian (native)
 - English (B2)
+
 
 ## Personal interests
 
@@ -112,6 +120,7 @@ DevOps Engineer position utilising 6 years experience in fintech software develo
 - Build more projects using Kubernetes and explore more advanced features
 - Learn more about software design patterns and architectures
 - Get more expirience in software development as a software developer
+
 
 ## References
 
