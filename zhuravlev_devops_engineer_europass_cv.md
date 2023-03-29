@@ -81,10 +81,9 @@ DevOps Engineer position utilising 6 years experience in fintech software develo
 
 ## Education and training
 
-- **Dates:** September 2012 - June 2016
-- **Title of qualification awarded:** Bachelor of Science in Computer Science
-- **Principal subjects:** Computer Science, Mathematics
-- **Organization providing education and training:** University of Anytown, EU
+- **Dates:** 2008
+- **Title of qualification awarded:** Engineer
+- **Organization providing education and training:** Peter the Great St.Petersburg Polytechnic University, Russia
 
 
 ## Certifications
