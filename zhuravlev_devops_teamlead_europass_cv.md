@@ -12,7 +12,7 @@
 
 ## Objective
 
-DevOps Engineer position utilising 6 years experience in fintech software development company
+DevOps Team Lead position utilising 6 years experience in fintech software development company
 
 
 ## Executive summary
